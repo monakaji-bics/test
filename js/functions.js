@@ -29,4 +29,4 @@ $('.jumpBtn').click(function () {
 });
 
 
-console.log('コンソール表示');
+console.log('繧ｳ繝ｳ繧ｽ繝ｼ繝ｫ縺ｫ陦ｨ遉ｺ');
