@@ -29,4 +29,4 @@ $('.jumpBtn').click(function () {
 });
 
 
-console.log('コンソールに表示');
+console.log('コンソールの変更');
