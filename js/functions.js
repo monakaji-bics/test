@@ -27,6 +27,8 @@ $('.jumpBtn').click(function () {
 		$('.zankinum').text(++zankiNumberadd);
 	}
 });
+console.log('test');
 
 
-console.log('コンソールに表示');
+
+
